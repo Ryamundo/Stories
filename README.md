@@ -1,3 +1,3 @@
 # Stories
 
-Just a spot for random Twine stories.
+Just a spot for my random Twine stories.
